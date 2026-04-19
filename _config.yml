@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Nicolas Kahl # the main title
 
-tagline: Network & Security Engineer # it will display as the subtitle
+tagline: Junior Network Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Notes on networking, security, and home lab projects.
@@ -41,9 +41,9 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
+    - https://de.linkedin.com/in/nicolas-kahl-527a85b0
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://de.linkedin.com/in/nicolas-kahl-527a85b0
 
 # Site Verification Settings
 webmaster_verifications:
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+# avatar:
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
