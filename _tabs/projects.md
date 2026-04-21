@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Projects
-icon: fas fa-user
+icon: fas fa-network-wired
 order: 3
 ---
