@@ -5,6 +5,7 @@ date: 2026-04-22 10:00:00 +0200
 ---
 
 What is a Network?
+
 A network can be described as a system that connects two or more devices with each other to share or exchange data. These devices are connected through links, which may be wired (cables, optical fiber) or wireless (Wi-Fi, radio signals).
 
 What type of devices exist in a Network?
